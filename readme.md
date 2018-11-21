@@ -1,10 +1,7 @@
 
-# Project Title:
+# Project Title: KMP (Knuth Morris Pratt)
 
-**KMP** 
-
-`(Knuth Morris Pratt) Pattern Searching Algorithm`  
-`Substring Searching.`
+`KMP is Substring Pattern Searching Algorithm`
 
 ## Details 
 
