@@ -11,10 +11,10 @@
 * There are no worst-case inputs, no probability of getting unlucky.
 
 
-## Code
+## Algorithm
 
 ```
-*algorithm kmp_search:* 
+algorithm kmp_search: 
     input:
         an array of characters, S (the text to be searched)
         an array of characters, W (the word sought)
