@@ -10,7 +10,7 @@
 
 
 * KMP has the nice advantage that it is guaranteed worst-case efficient.
-* The preprocessing time is always O(n), and the searching time is always `**O(m)**`.
+* The preprocessing time is always O(n), and the searching time is always `O(m)`.
 * There are no worst-case inputs, no probability of getting unlucky.
 
 
