@@ -1,17 +1,21 @@
-#Project Title:
+
+# Project Title:
 
 **KMP** 
+
 ' (Knuth Morris Pratt) Pattern Searching Algorithm  
 Substring Searching. '
 
 ## Details 
+
 '''
 * KMP has the nice advantage that it is guaranteed worst-case efficient.
 * The preprocessing time is always O(n), and the searching time is always **O(m)**.
 * There are no worst-case inputs, no probability of getting unlucky.
 ''' 
 
-##Code
+## Code
+
 '''
 *algorithm kmp_search:* 
     input:
